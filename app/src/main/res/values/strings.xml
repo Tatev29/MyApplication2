@@ -1,0 +1,7 @@
+
+    <resources>
+        <string name="hello">Hello World, MyAndroidAppActivity!</string>
+        <string name="app_name">MyAndroidApp</string>
+        <string name="chk_save">SAVE</string>
+    </resources>
+
